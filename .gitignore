@@ -1,0 +1,10 @@
+pretrained_checkpoint
+data
+__pycache__
+build
+dist
+train/ops/MultiScaleDeformableAttention.egg-info
+work_dirs
+seginw/GroundingDINO/groundingdino.egg-info
+*.so
+.idea
